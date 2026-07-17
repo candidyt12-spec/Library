@@ -33,6 +33,7 @@ FontColor = Color3.fromRGB(255, 255, 255);
 MainColor = Color3.fromRGB(18, 18, 18);
 BackgroundColor = Color3.fromRGB(10, 10, 10);
 AccentColor = Color3.fromRGB(170, 0, 255);
+warn("Accent:", Library.AccentColor)
 OutlineColor = Color3.fromRGB(70, 0, 120);
 RiskColor = Color3.fromRGB(255, 50, 50);
 
